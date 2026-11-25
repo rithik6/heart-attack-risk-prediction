@@ -176,8 +176,8 @@ Among the three evaluated algorithms, Random Forest achieved the highest observe
 
 | Model | Result |
 |---|---|
-| Logistic Regression | Evaluated |
-| Decision Tree | Evaluated |
+| Logistic Regression | 48% accuracy |
+| Decision Tree | 53% accuracy |
 | **Random Forest** | **56% accuracy — highest among tested models** |
 
 **What does this result tell us?**
